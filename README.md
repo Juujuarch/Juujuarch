@@ -1,114 +1,103 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=blur&color=0:0d1117,50:ff00ff,100:00ffff&height=180&section=header&text=glurp-zonk&fontSize=70&fontColor=ffffff&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=blur&color=0:0d1117,50:39d353,100:0d1117&height=180&section=header&text=zzgl%2Frp%2Fonk&fontSize=70&fontColor=39d353&animation=fadeIn" />
 
 ```
-        ,---.
-       /  ^  \      >> RANDOM SIGNAL <<
-      | o   o |     >> CHANNEL 47.3 <<
-       \  ~  /
-        `---´
+   ▄▄▄· ▄▄▄▄▄      ▄▄▌      ▄▄▄  ·▄▄▄▄  
+   ▐█▀▀█▌█▀█▀█     ██•  ██  ▐█ ▌ ▀█▀   
+   ██▄▪▐█▌▐█▌     ▐█▪███▪▌██ ██ ▄▄▐█▌  
+   ▐▐▌·▀▀▐█▌      .▀   ▀ .▀▀▀▀  ▀ .▀▀  
+        >> SIGNAL FROM NOWHERE <<
 ```
 
-<img src="https://img.shields.io/badge/static-none-ff00ff?style=for-the-badge" />
-<img src="https://img.shields.io/badge/cat-miauw-00ffff?style=for-the-badge" />
-<img src="https://img.shields.io/badge/dog-woof-ffff00?style=for-the-badge" />
-<img src="https://komarev.com/ghpvc/?username=Juujuarch&style=for-the-badge&color=ff00ff&label=VISITORS" />
+<img src="https://img.shields.io/badge/%E2%96%B6-static-39d353?style=for-the-badge" />
+<img src="https://img.shields.io/badge/%E2%96%B6-noise-39d353?style=for-the-badge" />
+<img src="https://img.shields.io/badge/%E2%96%B6-void-39d353?style=for-the-badge" />
+<img src="https://komarev.com/ghpvc/?username=Juujuarch&style=for-the-badge&color=39d353&label=SCANS" />
 
 </div>
 
 ---
 
-# ようこそ / Добро пожаловать / Bienvenue / خوش آمدید / வருக
+# ⟦ k͜l͡u̷r̸p̡ ̶z̢o̴n̡k̸ ⟧
 
-> The kumquat leaps into the *trådløs* at three kuu, while the
-> **vacuum cat** blows candles aboard the *shinkansen*. The spoon betrays nothing.
-> スプーンは何も裏切らない。Ο κουτάλι δεν προδίδει τίποτα. Łyżka niczego nie zdradza.
+> glurb zant vreeb quorvik shnal — **mrek tovo** p'luthi xang drivol,
+> sek wumprath. Nngh. Krrr. Tssss. 𐌀𐌋𐌏𐌓𐌉𐌕𐋅𐌀𐌐 𐌃𐌉𐌕𐌀𐌓
+> 0xDEADBEEF 01001001 00110010 𓂀𓂀𓂀 ᚼᛁᚾ᛫ᚦᛁᛝ᛫ᚨᚱ᛫ᚨᚱ
 
-## 🍜 Meaningless Grid
+## ⌇ Noise Grid
 
-| Col A | Col B | Col Ç |
+| Col ᚨ | Col ᛒ | Col ᛣ |
 |---|---|---|
-| かえる | grenouille | 🐸 |
-| жаба | kutya | カエル |
-| rã | rano | ⛈️ |
-| jamal | zebra | 🦓 |
-| ñoño | ñandú | 🌪️ |
-| छल्ले | fil | 🐘 |
-| kiwi | quả | 🥝 |
-| múr | múr | 🧱 |
+| ᚼᚢᚿ | ᚠᚢᚿ | ᚦᚢᚿ |
+| k'lurp | z'gronk | v'reep |
+| ᚠᛁᛋᚴ | ᛒᛚᛟᛞ | ᚹᛟᚱᛗ |
+| 𓂋𓂋𓂋 | 𓆓𓆓𓆓 | 𓅃𓅃𓅃 |
+| mmmph | brrrngh | tsktsktsk |
+| 0xFF 0x00 0x13 | 0b10110011 | 0o777 |
+| ζζζζ | ξξξξ | ψψψψ |
 
-## 💻 Code That Runs Nothing
+## ⌇ Code That Computes Nothing
 
 ```python
-def żółć(x=λ: None):
-    """Docstring: denne funksjonen gjør ingenting. Cette fonction ne fait rien."""
-    słownik = {"ñ": "ñ", "ß": "ß", "æ": "æ", "ø": "ø"}
-    while True:
+def ẑʟ̸́ú̸r̶ṕ̸(x=λ: ᚼᚢᚿ):
+    """Nngh k'lurp z'gronk. Tssss. 01001001."""
+    šl͜o̸v̸n̸ík̸ = {"ᚼ": "ᚠ", "ᚢ": "ᛒ", "ᚦ": "ᚹ"}
+    while ᚼᚢᚿ:
         try:
-            yield from map(lambda ø: ø[::-1], "żółć gęś jaźń".split())
-        except AntigravityError:
-            raise Kaboom from None
+            yield from map(lambda ᚦ: ᚦ[::-1], "k'lurp z'gronk v'reep".split())
+        except 𐌀𐌍𐌕𐌉𐌂𐌓𐌀𐌅𐌉𐌕𐌙:
+            raise 𐌊𐌀𐌁𐌏𐌏𐌌 from None
         finally:
-            continue  # 여기에는 아무것도 없습니다
+            continue  # 𓂀 𓂀 𓂀
 ```
 
 ```bash
 #!/usr/bin/env nonsense
-# ¡Ojo! Dit script doet niets. Questo non fa niente.
+# k'lurp z'gronk v'reep. Nngh. Tssss.
 set -euo pipefail
-echo "grrrawr" | tr 'a-z' 'zyxw'
+echo "grrrawr" | tr 'a-z' 'zyxw' | xxd
 for i in {1..∞}; do sleep ∞; done &
 ```
 
-## 📜 Random Language Parade
+## ⌇ Phoneme Parade
 
-1. **日本語** — 猫が冷蔵庫を開けた
-2. **Русский** — медведь ест облако
-3. **Français** — le fromage respire doucement
-4. **العربية** — الحوت يغني للمطر
-5. **हिन्दी** — हाथी उड़ता है धीरे-धीरे
-6. **Türkçe** — keçi şehirde tramvay sürüyor
-7. **ไทย** — ช้างเล่นดนตรีกลางน้ำ
-8. **Português** — o pinguim assa pão de queijo
-9. **Deutsch** — der Löffel denkt nach
-10. **한국어** — 고양이가 달을 산다
-11. **Kiswahili** — twiga anacheza gitaa juu ya mlima
-12. **Magyar** — a ló festi a felhőket
-13. **Suomi** — karhu kutsuu lunta nimellä mökkI
-14. **עברית** — הדולפן מקריא שירה
-15. **Norsk** — skjeen leser avisen baklengs
+1. **ᚼᚢᚿ᛫ᚠᚢᚿ** — ᚼᚢᚿ ᚠᚢᚿ ᚦᚢᚿ ᛒᛚᛟᛞ ᚹᛟᚱᛗ
+2. **k'lurp z'gronk** — mmmph brrrngh tsktsktsk v'reep shnal
+3. **𓂋𓂋𓂋** — 𓂋 𓆓 𓅃 𓋴 𓃒 𓅓 𓆗 𓊍
+4. **ζζζζ** — ζ ξ ψ ω φ χ θ λ ρ σ π
+5. **0xDE 0xAD** — 0b1101 0o173 0xFF 0x00 0x13
+6. **𐌀𐌋𐌏𐌓** — 𐌀 𐌁 𐌂 𐌃 𐌄 𐌅 𐌆 𐌇
+7. **nngh krrr** — nngh krrr tssss hssss brrrngh mmmph
 
-## ⚡ Random Facts
+## ⌇ Facts From The Void
 
-- 🥨 The pretzel hears the colour blue in Mandarin.
-- 🦴 Bones hold private opinions about weather, but only in Aotearoa.
-- 🧊 Ice in Deutschland dreams of *froyo*.
-- 🐙 The octopus is writing a novel about umbrellas in German.
-- 🚲 Bicycles in Lisboa stopped believing in gravity in 1987.
-- 🥑 The avocado is a crypto, but its wallet is missing.
+- 🥨 The pretzel hears 0xDEADBEEF in Mandarin. Nngh.
+- 🦴 Bones hold private opinions about ᚼᚢᚿ, but only in 𓂋𓂋𓂋.
+- 🧊 Ice in ζζζζ dreams of *mrek tovo p'luthi*.
+- 🐙 The octopus writes novels about umbrellas in k'lurp z'gronk.
+- 🚲 Bicycles stopped believing in 0b10110011 around 0x1987.
+- 🥑 The avocado is a crypto, but its ᚹᛟᚱᛗ is missing.
 
-## 🧊 Stack
+## ⌇ Stack
 
 ```yaml
 languages:
-  - all
+  - ᚼᚢᚿ
   - 尚无
   - ещё больше
-  - und noch mehr
-  - और भी
+  - ζζζζ
+  - 𓂋𓂋𓂋
 frameworks:
   - none
-  - нет
-  - none
-  - aucun
-  - rien
+  - k'lurp
+  - ᚠᛁᛋᚴ
+  - 0xFF
 database:
   - stone
-  - камень
-  - pierre
-  - 돌
-  - ийн чулуу
+  - ᛒᛚᛟᛞ
+  - 𓆓𓆓𓆓
+  - 0o777
 ```
 
 ---
@@ -116,12 +105,11 @@ database:
 <div align="center">
 
 ```
-  ~~~~~~~~~~~~~~~~~~~~~~
- /  NOTHING MEANINGFUL   \
- \  HERE. 何もない。       /
-  ~~~~~~~~~~~~~~~~~~~~~~
+  𓂀  𓂀  𓂀  𓂀  𓂀  𓂀  𓂀
+   NOTHING COMPREHENSIBLE HERE
+  𓂀  𓂀  𓂀  𓂀  𓂀  𓂀  𓂀
 ```
 
-*glurp* · *zonk* · *grrrawr* · *miauw* · *ква* · *meong* · *わんわん*
+*glurp* · *zonk* · *grrrawr* · *krrr* · *nngh* · *tsktsktsk* · *ᚼᚢᚿ*
 
 </div>
