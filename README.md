@@ -1,19 +1,20 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=blur&color=0:0d1117,50:39d353,100:0d1117&height=180&section=header&text=zzgl%2Frp%2Fonk&fontSize=70&fontColor=39d353&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=blur&color=0:0d1117,50:39d353,100:0d1117&height=180&section=header&text=%E1%9F%A6%CC%80%CC%9D%E1%9F%A6%20%CB%99z%CC%82%CB%99%CB%99%CC%80%CC%81%F0%90%80%80&fontSize=90&fontColor=39d353&animation=fadeIn" />
 
 ```
-   ▄▄▄· ▄▄▄▄▄      ▄▄▌      ▄▄▄  ·▄▄▄▄  
-   ▐█▀▀█▌█▀█▀█     ██•  ██  ▐█ ▌ ▀█▀   
-   ██▄▪▐█▌▐█▌     ▐█▪███▪▌██ ██ ▄▄▐█▌  
-   ▐▐▌·▀▀▐█▌      .▀   ▀ .▀▀▀▀  ▀ .▀▀  
-        >> SIGNAL FROM NOWHERE <<
+   ▄▄▄· ▄▄▄▄▄      ▄▄▌  ▐▄▄▄▄▄▄
+   ██▀▀█▌█▀█▀█     ██•  ██▀▀▀▀
+   ██▄▪▐█▌▐█▌     ▐█▪███▪▌▐█▌
+   ▐▐▌·▀▀▐█▌      .▀   ▀ .▀▀▀
+        𓂀 𓂀 𓂀 𓂀 𓂀 𓂀 𓂀
 ```
 
-<img src="https://img.shields.io/badge/%E2%96%B6-static-39d353?style=for-the-badge" />
-<img src="https://img.shields.io/badge/%E2%96%B6-noise-39d353?style=for-the-badge" />
-<img src="https://img.shields.io/badge/%E2%96%B6-void-39d353?style=for-the-badge" />
-<img src="https://komarev.com/ghpvc/?username=Juujuarch&style=for-the-badge&color=39d353&label=SCANS" />
+<img src="https://img.shields.io/badge/%F0%92%80%80%F0%92%80%80-39d353?style=for-the-badge" />
+<img src="https://img.shields.io/badge/%E1%9A%BC%E1%9A%BC%E1%9A%BC-39d353?style=for-the-badge" />
+<img src="https://img.shields.io/badge/%F0%90%80%80%F0%90%80%80-39d353?style=for-the-badge" />
+<img src="https://img.shields.io/badge/%CE%B6%CE%B6%CE%B6-39d353?style=for-the-badge" />
+<img src="https://komarev.com/ghpvc/?username=Juujuarch&style=for-the-badge&color=39d353&label=%F0%92%80%80" />
 
 </div>
 
@@ -21,13 +22,13 @@
 
 # ⟦ k͜l͡u̷r̸p̡ ̶z̢o̴n̡k̸ ⟧
 
-> glurb zant vreeb quorvik shnal — **mrek tovo** p'luthi xang drivol,
+> ẑʟ̸́ú̸r̶ṕ̸ zant vreeb quorvik shnal — **mrek tovo** p'luthi xang drivol,
 > sek wumprath. Nngh. Krrr. Tssss. 𐌀𐌋𐌏𐌓𐌉𐌕𐋅𐌀𐌐 𐌃𐌉𐌕𐌀𐌓
 > 0xDEADBEEF 01001001 00110010 𓂀𓂀𓂀 ᚼᛁᚾ᛫ᚦᛁᛝ᛫ᚨᚱ᛫ᚨᚱ
 
-## ⌇ Noise Grid
+## ⌇ 𓂋𓂋𓂋
 
-| Col ᚨ | Col ᛒ | Col ᛣ |
+| ᚨ | ᛒ | ᛣ |
 |---|---|---|
 | ᚼᚢᚿ | ᚠᚢᚿ | ᚦᚢᚿ |
 | k'lurp | z'gronk | v'reep |
@@ -36,8 +37,9 @@
 | mmmph | brrrngh | tsktsktsk |
 | 0xFF 0x00 0x13 | 0b10110011 | 0o777 |
 | ζζζζ | ξξξξ | ψψψψ |
+| 𐌀𐌁𐌂 | 𐌃𐌄𐌅 | 𐌆𐌇𐌈 |
 
-## ⌇ Code That Computes Nothing
+## ⌇ 𓆓𓆓𓆓
 
 ```python
 def ẑʟ̸́ú̸r̶ṕ̸(x=λ: ᚼᚢᚿ):
@@ -52,7 +54,7 @@ def ẑʟ̸́ú̸r̶ṕ̸(x=λ: ᚼᚢᚿ):
             continue  # 𓂀 𓂀 𓂀
 ```
 
-```bash
+```
 #!/usr/bin/env nonsense
 # k'lurp z'gronk v'reep. Nngh. Tssss.
 set -euo pipefail
@@ -60,7 +62,7 @@ echo "grrrawr" | tr 'a-z' 'zyxw' | xxd
 for i in {1..∞}; do sleep ∞; done &
 ```
 
-## ⌇ Phoneme Parade
+## ⌇ 𓅃𓅃𓅃
 
 1. **ᚼᚢᚿ᛫ᚠᚢᚿ** — ᚼᚢᚿ ᚠᚢᚿ ᚦᚢᚿ ᛒᛚᛟᛞ ᚹᛟᚱᛗ
 2. **k'lurp z'gronk** — mmmph brrrngh tsktsktsk v'reep shnal
@@ -70,30 +72,28 @@ for i in {1..∞}; do sleep ∞; done &
 6. **𐌀𐌋𐌏𐌓** — 𐌀 𐌁 𐌂 𐌃 𐌄 𐌅 𐌆 𐌇
 7. **nngh krrr** — nngh krrr tssss hssss brrrngh mmmph
 
-## ⌇ Facts From The Void
+## ⌇ 𓋴𓋴𓋴
 
-- 🥨 The pretzel hears 0xDEADBEEF in Mandarin. Nngh.
-- 🦴 Bones hold private opinions about ᚼᚢᚿ, but only in 𓂋𓂋𓂋.
-- 🧊 Ice in ζζζζ dreams of *mrek tovo p'luthi*.
-- 🐙 The octopus writes novels about umbrellas in k'lurp z'gronk.
-- 🚲 Bicycles stopped believing in 0b10110011 around 0x1987.
-- 🥑 The avocado is a crypto, but its ᚹᛟᚱᛗ is missing.
-
-## ⌇ Stack
+- 🥨 𓂋𓂋𓂋 ᚼᚢᚿ 0xDEADBEEF ᚠᚢᚿ. Nngh.
+- 🦴 ᛒᛚᛟᛞ 𓆓𓆓𓆓 𓅃𓅃𓅃 ᚼᚢᚿ, 𓂋𓂋𓂋 𓋴𓋴𓋴.
+- 🧊 ζζζζ 𓆓𓆓𓆓 *mrek tovo p'luthi* ᚹᛟᚱᛗ.
+- 🐙 𓅃𓅃𓅃 k'lurp z'gronk 𓋴𓋴𓋴 ᛒᛚᛟᛞ.
+- 🚲 𓂋𓂋𓂋 0b10110011 0x1987 ᚼᚢᚿ ᚠᚢᚿ.
+- 🥑 𓆓𓆓𓆓 0o777, ᚹᛟᚱᛗ 𓋴𓋴𓋴 𓂋𓂋𓂋.
 
 ```yaml
-languages:
+ᚼᚢᚿ:
   - ᚼᚢᚿ
   - 尚无
   - ещё больше
   - ζζζζ
   - 𓂋𓂋𓂋
-frameworks:
+ᚠᛁᛋᚴ:
   - none
   - k'lurp
   - ᚠᛁᛋᚴ
   - 0xFF
-database:
+ᛒᛚᛟᛞ:
   - stone
   - ᛒᛚᛟᛞ
   - 𓆓𓆓𓆓
@@ -105,9 +105,9 @@ database:
 <div align="center">
 
 ```
-  𓂀  𓂀  𓂀  𓂀  𓂀  𓂀  𓂀
-   NOTHING COMPREHENSIBLE HERE
-  𓂀  𓂀  𓂀  𓂀  𓂀  𓂀  𓂀
+  𓂀  𓂀  𓂀  𓂀  𓂀  𓂀  𓂀  𓂀  𓂀
+   𓂀  𓂀  𓂀  𓂀  𓂀  𓂀  𓂀  𓂀
+  𓂀  𓂀  𓂀  𓂀  𓂀  𓂀  𓂀  𓂀  𓂀
 ```
 
 *glurp* · *zonk* · *grrrawr* · *krrr* · *nngh* · *tsktsktsk* · *ᚼᚢᚿ*
